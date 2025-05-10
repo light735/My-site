@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+main {
+     background-image: linear-gradient(to right, #679B00, #00CC00	, #FFD673);
+}
+h1 {
+    
+    text-shadow: 0 10px 3px  black;
+    
+}
+header {
+    height: 100px;
+   
+    background-image: linear-gradient(to right, #238C47, #63DD8D	, #00BB3F);
+
+}
+.link-text {
+    text-decoration: dotted black;
+    
+}
+.link-header
+ {
+    color:#FFD673;
+    font-size: 25px;
+     border: 2px solid darkgreen ;
+    box-shadow: 2px 2px 5px 0 slateblue ;
+    margin-bottom: 10px;
+}
